@@ -11,9 +11,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AplikasiHijau"
+        android:theme="@style/Theme.AplikasiHijau">
 
-        tools:targetApi="31">
       <!-- SAYA DISINI NGODINGNYA PAK : @dfdiag -->
         <activity
             android:name=".MainActivity"
