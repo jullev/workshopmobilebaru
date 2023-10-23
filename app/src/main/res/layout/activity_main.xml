@@ -15,4 +15,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="386dp"
+        android:text="Login"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
