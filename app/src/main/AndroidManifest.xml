@@ -12,7 +12,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AplikasiHijau"
-        tools:targetApi="31">
+        tools:targetApi="1">
+       <!-- FIX ME ;)  -->
+        <!-- tools:targetApi="31"> -->
       <!-- SAYA DISINI NGODINGNYA PAK : @dfdiag -->
         <activity
             android:name=".MainActivity"
