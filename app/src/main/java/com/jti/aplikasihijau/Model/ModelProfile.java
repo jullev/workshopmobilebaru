@@ -5,6 +5,9 @@ public class ModelProfile {
     String lastName;
     String Email;
     String imageProfil;
+    public ModelProfile (){
+
+    }
 
     public String getFirstName() {
         return firstName;
